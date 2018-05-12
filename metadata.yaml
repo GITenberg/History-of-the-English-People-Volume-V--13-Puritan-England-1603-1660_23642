@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7099
     wikipedia: http://en.wikipedia.org/wiki/John_Richard_Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23642#History-of-the-English-People-Volume-V--13-Puritan-England-1603-1660
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-11-27'
 gutenberg_type: Text
